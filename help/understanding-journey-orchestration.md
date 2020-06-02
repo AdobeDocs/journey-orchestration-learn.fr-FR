@@ -4,11 +4,12 @@ description: Comprendre le concept d'orchestration de Journey, les types de cas 
 feature: Journey Orchestration
 topics: Introduction
 kt: 2773
+thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
 translation-type: tm+mt
-source-git-commit: 795b30fe984b7fe715789144e8c421028d7d32ac
+source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
@@ -22,7 +23,7 @@ ht-degree: 0%
 
 [!UICONTROL L’orchestration] de Journey vous permet de créer des cas d’utilisation de l’orchestration en temps réel en exploitant des données contextuelles stockées dans des événements ou des sources de données.
 
-[!UICONTROL Journey Orchestration] est un service d’applications intégré à Adobe Experience Platform. Il fournit un écosystème intelligent et ouvert pour activer toutes les données actives pertinentes grâce à un engagement évolutif et basé sur le événement dans tous les canaux dont votre entreprise a besoin, du marketing aux opérations en passant par le service. [!UICONTROL L’orchestration] Journey peut exploiter n’importe quelles données issues d’Adobe Experience Platform et de tout système de diffusion externe pour créer et diffuser des expériences fascinantes.
+[!UICONTROL Journey Orchestration] est un service d’applications intégré à la plateforme d’expérience Adobe. Il fournit un écosystème intelligent et ouvert pour activer toutes les données actives pertinentes grâce à un engagement évolutif et basé sur le événement dans tous les canaux dont votre entreprise a besoin, du marketing aux opérations en passant par le service. [!UICONTROL L’orchestration] Journey peut exploiter n’importe quelle donnée de la plateforme d’expérience Adobe et de tout système de diffusion externe pour créer et diffuser des expériences fascinantes.
 
 La vidéo ci-dessous présente :
 
@@ -52,7 +53,7 @@ Les principales étapes de préparation des voyages sont les suivantes :
 ## Autres ressources
 
 * [Centre d&#39;aide de l&#39;orchestration du trajet](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
-* [Didacticiels Adobe Experience Platform](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [Didacticiels de la plateforme d’expérience Adobe](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
 * [Comment trouver de l&#39;aide sur l&#39;orchestration de Journey](/help/understanding-journey-orchestration.md)
 * [Adobe Experience Platform Mobile SDK - Lancement](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
-* [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/en/places/using/home.html)
+* [Service d’emplacement de la plate-forme d’expérience Adobe](https://docs.adobe.com/content/help/en/places/using/home.html)
