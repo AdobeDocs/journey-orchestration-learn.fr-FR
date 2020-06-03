@@ -1,14 +1,15 @@
 ---
 title: Configuration des sources de données pour l’orchestration du parcours Adobe
-description: L’orchestration du parcours vous permet de vous connecter à Adobe Experience Platform ou à d’autres systèmes tiers pour récupérer des informations supplémentaires. Ce didacticiel explique comment configurer la source de données de la plateforme d’expérience, configurer une source de données externe, rechercher et utiliser des données dans un parcours.
+description: L’orchestration du parcours vous permet de vous connecter à la plateforme Adobe Experience Platform ou à d’autres systèmes tiers pour récupérer des informations supplémentaires. Ce didacticiel explique comment configurer la source de données de la plateforme d’expérience, configurer une source de données externe, rechercher et utiliser des données dans un parcours.
 feature: Journey Orchestration
 topics: Data Sources
 kt: 2774
+thumbnail: 29406.jpg
 audience: developer
 doc-type: video
 activity: setup
 translation-type: tm+mt
-source-git-commit: 795b30fe984b7fe715789144e8c421028d7d32ac
+source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 3%
@@ -18,7 +19,7 @@ ht-degree: 3%
 
 # Configuration des sources de données
 
-[!UICONTROL L’orchestration] du parcours vous permet de vous connecter à Adobe Experience Platform ou à d’autres sources de données tierces afin de récupérer des informations supplémentaires qui peuvent être utilisées dans un parcours pour :
+[!UICONTROL L’orchestration] du parcours vous permet de vous connecter à Adobe Experience Platform ou à d’autres sources de données tierces afin de récupérer des informations supplémentaires pouvant être utilisées dans un parcours pour :
 
 * Définition des conditions
 * Paramètres et données de personnalisation dans les actions
