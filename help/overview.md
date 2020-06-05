@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Présentation
 
-[!UICONTROL Journey Orchestration] est un service d’applications intégré à Adobe Experience Platform. Il vous permet de créer des cas d’utilisation d’orchestration en temps réel en exploitant des données contextuelles stockées dans des événements ou des sources de données.
+[!UICONTROL Journey Orchestration] est un service d’applications intégré à la plateforme d’expérience Adobe. Il vous permet de créer des cas d’utilisation d’orchestration en temps réel en exploitant des données contextuelles stockées dans des événements ou des sources de données.
 
 ## Nouveautés
 
@@ -69,5 +69,5 @@ ht-degree: 2%
 ## Autres ressources
 
 * [Centre d&#39;aide de l&#39;orchestration du trajet](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
-* [Didacticiels Adobe Experience Platform](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [Didacticiels de la plateforme d’expérience Adobe](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
 
