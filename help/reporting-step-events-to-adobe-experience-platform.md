@@ -9,7 +9,7 @@ audience: user
 doc-type: video
 activity: use
 translation-type: tm+mt
-source-git-commit: df5c132a8e66a9e9d2c8e7a2cf299a6a6a3527b7
+source-git-commit: 3d8621e0bdda1aa6b9a576fca07aacebd1ad46d5
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 5%
@@ -20,7 +20,7 @@ ht-degree: 5%
 # événements d&#39;étape Rapports à l&#39; [!UICONTROL Adobe Experience Platform ]
 
 [!UICONTROL Le Journey Orchestration] envoie automatiquement les données de performances de voyage à l&#39; [!UICONTROL Adobe Experience Platform] afin qu&#39;elles puissent être combinées à d&#39;autres données à des fins d&#39;analyse.
-La vidéo suivante explique quels sont les événements [!UICONTROL d&#39;étape de] voyage et quelles étapes [!UICONTROL de] données sont automatiquement créées sur l&#39; [!UICONTROL Experience Platform ]et comment les explorer.
+La vidéo suivante explique quels sont les événements [!UICONTROL d&#39;étape de] voyage et quelles étapes [!UICONTROL de] données sont automatiquement créées sur l&#39; [!UICONTROL Experience Platform] et comment les explorer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12)
 
