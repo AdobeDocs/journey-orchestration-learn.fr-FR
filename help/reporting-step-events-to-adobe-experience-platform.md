@@ -1,6 +1,6 @@
 ---
-title: 'événements d''étape Rapports du parcours vers l''Adobe Experience Platform '
-description: Ce didacticiel explique comment naviguer jusqu’au rapports de votre voyage, comment personnaliser des plages de dates pour votre rapport et comment enregistrer un modèle de rapports pour une utilisation ultérieure.
+title: 'événements d''étape Rapports du voyage vers Adobe Experience Platform '
+description: La vidéo suivante explique quels sont les événements d'étape du voyage et quelles étapes de données sont automatiquement créées sur l'Experience Platform et comment les explorer.
 feature: Journey Orchestration
 topics: Introduction
 kt: 5488
@@ -9,17 +9,17 @@ audience: user
 doc-type: video
 activity: use
 translation-type: tm+mt
-source-git-commit: 3d8621e0bdda1aa6b9a576fca07aacebd1ad46d5
+source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '114'
 ht-degree: 5%
 
 ---
 
 
-# événements d&#39;étape Rapports à l&#39; [!UICONTROL Adobe Experience Platform ]
+# événements d&#39;étape Rapports vers [!UICONTROL Adobe Experience Platform ]
 
-[!UICONTROL Le Journey Orchestration] envoie automatiquement les données de performances de voyage à l&#39; [!UICONTROL Adobe Experience Platform] afin qu&#39;elles puissent être combinées à d&#39;autres données à des fins d&#39;analyse.
+[!UICONTROL Journey Orchestration] envoie automatiquement les données de performances de voyage au [!UICONTROL Adobe Experience Platform] afin qu’elles puissent être combinées à d’autres données à des fins d’analyse.
 La vidéo suivante explique quels sont les événements [!UICONTROL d&#39;étape de] voyage et quelles étapes [!UICONTROL de] données sont automatiquement créées sur l&#39; [!UICONTROL Experience Platform] et comment les explorer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12)
