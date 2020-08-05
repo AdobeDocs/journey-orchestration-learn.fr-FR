@@ -9,7 +9,7 @@ tutorials-url: https://docs.adobe.com/content/help/en/journey-orchestration-lear
 getting-started-title: Centre d’aide
 getting-started-url: https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html
 translation-type: tm+mt
-source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
+source-git-commit: f2533c2ec19d525d6366fa5366c82900eea9c5ff
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 7%
@@ -22,7 +22,7 @@ ht-degree: 7%
 + [Présentation](/help/overview.md)
 + [Comprendre le Journey Orchestration](/help/understanding-journey-orchestration.md)
 + [Configuration des événements de diffusion en continu](/help/configuring-journey-orchestration/configure-streaming-events.md)
-+ [Utilisation de événements de qualification de segment](help/using-segment-qualification-events.md)
++ [Utilisation de événements de qualification de segment](/help/using-segment-qualification-events.md)
 + [Configuration des sources de données](/help/configuring-journey-orchestration/configure-data-sources.md)
 + [Configuration des actions](/help/configuring-journey-orchestration/configure-actions.md)
 + [Créer un voyage](/help/create-a-journey.md)
