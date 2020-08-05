@@ -1,11 +1,11 @@
 ---
-title: Didacticiels d'orchestration du parcours - Présentation
-description: L’orchestration du parcours vous permet de créer des cas d’orchestration en temps réel à l’aide de données contextuelles stockées dans des événements ou des sources de données.
+title: Tutorials Journey Orchestration - Présentation
+description: Journey Orchestration vous permet de créer des cas d’utilisation d’orchestration en temps réel en exploitant des données contextuelles stockées dans des événements ou des sources de données.
 products: Journey orchestration
 translation-type: tm+mt
-source-git-commit: d8a3de100c1b0607abf16e59dba8a5783f6097fc
+source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '247'
 ht-degree: 2%
 
 ---
@@ -13,12 +13,14 @@ ht-degree: 2%
 
 # Présentation
 
-[!UICONTROL Journey Orchestration] est un service d’applications intégré à la plateforme d’expérience Adobe. Il vous permet de créer des cas d’utilisation d’orchestration en temps réel en exploitant des données contextuelles stockées dans des événements ou des sources de données.
+[!UICONTROL Journey Orchestration] est un service d’application intégré au Adobe Experience Platform. Il vous permet de créer des cas d’utilisation d’orchestration en temps réel en exploitant des données contextuelles stockées dans des événements ou des sources de données.
 
 ## Nouveautés
 
-* **[Comment trouver de l&#39;aide sur l&#39;orchestration de Journey](/help/how-to-find-help-with-journey-orchestration.md)**   <br>
-   *Comprenez où vous pouvez rapidement trouver des réponses à vos questions sur l&#39;orchestration[!UICONTROL de]Journey, comment contacter l&#39;assistance, où enregistrer les tickets d&#39;assistance, et comment vous pouvez nous faire part de vos commentaires.*
+* **[événements d&#39;étape Rapports du voyage vers Adobe Experience Platform](/help/how-to-find-help-with-journey-orchestration.md)**   <br>
+   *Découvrez quels sont les événements d&#39;étape du voyage et quelles étapes de données sont automatiquement créées sur l&#39;Experience Platform et comment les explorer.*
+* **[Utilisation de événements de qualification de segment](help/using-segment-qualification-events.md)**   <br>
+   *Cette vidéo présente brièvement comment créer un voyage avec un événement de qualification de segment comme point d&#39;entrée ou de sortie.*
 
 ## Sélection du personnel
 
@@ -26,15 +28,15 @@ ht-degree: 2%
 <tr>
   <td>
     <a href="./understanding-journey-orchestration.md">
-      <img alt="Présentation de l'orchestration du parcours" src="./assets/journey-orchestration-example.png"/>
+      <img alt="Comprendre le Journey Orchestration" src="./assets/journey-orchestration-example.png"/>
     </a>
     <div>
       <a href="./understanding-journey-orchestration.md">
-    <strong>Présentation de l'orchestration du parcours</strong>
+    <strong>Comprendre le Journey Orchestration</strong>
     </a>
     </div>
     <p>
-    <em>Comprendre le concept d'orchestration de Journey, les types de cas d'utilisation qu'elle active et les éléments clés du fonctionnement de l'orchestration de Journey.</em>
+    <em>Comprendre le concept de Journey Orchestration, les types de cas d'utilisation qu'il permet et les éléments clés du fonctionnement du Journey Orchestration.</em>
     <p>
   </td>
   <td>
@@ -68,6 +70,6 @@ ht-degree: 2%
 
 ## Autres ressources
 
-* [Centre d&#39;aide de l&#39;orchestration du trajet](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
-* [Didacticiels de la plateforme d’expérience Adobe](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [Centre d’aide Journey Orchestration](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
+* [Adobe Experience Platform Tutorials](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
 
