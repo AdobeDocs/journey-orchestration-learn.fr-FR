@@ -1,6 +1,6 @@
 ---
-title: Analyser un parcours au moyen d'outils de rapports
-description: Ce didacticiel explique comment naviguer jusqu’au rapports de votre voyage, comment personnaliser des plages de dates pour votre rapport et comment enregistrer un modèle de rapports pour une utilisation ultérieure.
+title: Analyse d’un parcours au moyen d’outils de reporting
+description: Ce tutoriel explique comment accéder aux outils de reporting pour votre parcours. Il montre également comment personnaliser les périodes de votre rapport et comment enregistrer un modèle de rapport en vue d’une utilisation ultérieure.
 feature: Journey Orchestration
 topics: Introduction
 kt: 2777
@@ -8,26 +8,26 @@ thumbnail: 29321.jpg
 audience: user
 doc-type: video
 activity: use
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: eff94dd57d933976c0fd0a303696a54048e4ddc0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# Analyser un parcours au moyen d&#39;outils de rapports
+# Analyse d’un parcours au moyen d’outils de reporting
 
-La vidéo suivante explique comment :
+La vidéo ci-dessous explique comment :
 
-* Accédez au rapports de votre voyage
-* Personnaliser les plages de dates de votre rapport
-* Enregistrer un modèle de rapports pour une utilisation ultérieure
+* accéder aux outils de reporting pour votre parcours ;
+* personnaliser les périodes de votre rapport ;
+* enregistrer un modèle de rapport en vue d’une utilisation ultérieure.
 
->[!VIDEO](https://video.tv.adobe.com/v/29321?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29321?quality=12&captions=fre_fr)
 
 ## Ressources supplémentaires
 
-* [Centre](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)d&#39;aide du Journey Orchestration :
-* [A propos des rapports Journey Orchestration](https://docs.adobe.com/content/help/en/journeys/using/journey-reports/about-journey-reports.html)
+* [Centre d’aide de Journey Orchestration](https://docs.adobe.com/content/help/fr-FR/journeys/using/journey-orchestration-home.html) :
+* [À propos des rapports Journey Orchestration](https://docs.adobe.com/content/help/fr-FR/journeys/using/journey-reports/about-journey-reports.html)
