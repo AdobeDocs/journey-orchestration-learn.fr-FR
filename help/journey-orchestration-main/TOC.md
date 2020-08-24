@@ -11,8 +11,8 @@ getting-started-url: https://docs.adobe.com/content/help/fr-FR/journeys/using/jo
 translation-type: tm+mt
 source-git-commit: f2533c2ec19d525d6366fa5366c82900eea9c5ff
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '80'
+ht-degree: 95%
 
 ---
 
