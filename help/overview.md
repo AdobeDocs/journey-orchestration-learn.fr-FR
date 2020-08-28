@@ -6,7 +6,7 @@ translation-type: tm+mt
 source-git-commit: 7ad1bc51bc8cf195759031056d45599c96388991
 workflow-type: tm+mt
 source-wordcount: '247'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -20,11 +20,11 @@ ht-degree: 80%
 * **[Reporting d’événements d’étape vers Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)**
 
    <br>
-   *Découvrez quels sont les événements d&#39;étape du voyage et quelles étapes de données sont automatiquement créées sur l&#39;Experience Platform et comment les explorer.*
-* **[Utilisation de événements de qualification de segment](/help/using-segment-qualification-events.md)**
+   *Découvrez les événements d’étape du parcours, les étapes de données automatiquement créées sur Experience Platform et comment les explorer.*
+* **[Utilisation des événements de qualification de segment](/help/using-segment-qualification-events.md)**
 
    <br>
-   *Cette vidéo présente brièvement comment créer un voyage avec un événement de qualification de segment comme point d&#39;entrée ou de sortie.*
+   *Cette vidéo présente brièvement comment créer un parcours avec un événement de qualification de segment comme point d’entrée ou de sortie.*
 
 ## Sélections du personnel
 
