@@ -1,5 +1,5 @@
 ---
-title: Utilisation de événements de qualification de segment
+title: Utilisation des événements de qualification de segment
 description: Cette vidéo présente brièvement où configurer les segments et comment configurer un événement de qualification de segment dans un parcours.
 feature: Journey Orchestration
 topics: Events
@@ -8,30 +8,30 @@ thumbnail: 37901.jpg
 audience: user, developer
 doc-type: video
 activity: use
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '139'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Utilisation de événements de qualification de segment
+# Utilisation des événements de qualification de segment
 
-Un événement de qualification de segment permet à votre voyage d&#39;écouter les entrées et les sorties de profils dans les segments Adobe Experience Platform afin de faire entrer ou avancer les personnes dans un voyage.
+Un événement de qualification de segment permet à votre parcours d’écouter les entrées et sorties des profils dans les segments Adobe Experience Platform pour faire entrer ou avancer les individus dans le parcours.
 
-Les exemples d’utilisation peuvent être les suivants :
+Voici des exemples de cas d’utilisation :
 
-* Un voyage est déclenché pour un client de service mobile lorsqu’il dépasse la limite de données.
-* Lorsqu’un client a atteint un nouveau segment de fidélité ou sort d’un segment de fidélité
+* Un parcours est déclenché pour un client de service mobile lorsqu’il dépasse sa limite de données.
+* Un client a rejoint un nouveau segment de fidélité ou en a quitté un.
 
 Cette vidéo présente brièvement où configurer les segments et comment configurer un événement de qualification de segment dans un parcours.
 
->[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12&captions=fre_fr)
 
 ## Autres ressources
 
-Documentation:
+Documentation :
 
-* [Événements de qualification de segment](https://docs.adobe.com/content/help/en/journeys/using/building-journeys/about-journey-building/events-activities/segment-qualification-events.html)
+* [Événements de qualification de segment](https://docs.adobe.com/content/help/fr-FR/journeys/using/building-journeys/about-journey-building/events-activities/segment-qualification-events.html)
