@@ -8,9 +8,9 @@ thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 100%
 
@@ -31,7 +31,7 @@ La vidéo ci-dessous présente :
 * les types de cas d’utilisation proposés ;
 * les éléments essentiels du fonctionnement de [!UICONTROL Journey Orchestration].
 
->[!VIDEO](https://video.tv.adobe.com/v/29307?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/29307?quality=12)
 
 ## Configuration d’un parcours
 
