@@ -9,7 +9,7 @@ audience: user, developer
 doc-type: video
 activity: understand
 translation-type: tm+mt
-source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
+source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 100%
@@ -47,7 +47,7 @@ Les principales étapes de préparation à la création de parcours sont les sui
 
 ## Création, publication et analyse d’un parcours
 
-1. [Création d’un parcours](/help/create-a-journey.md)
+1. [Création d’un parcours](/help/building-a-journey/creating-a-journey.md)
 1. [Validation et publication d’un parcours](/help/validate-and-publish-a-journey.md)
 1. [Analyse d’un parcours au moyen d’outils de reporting](/help/analyze-a-journey-via-reporting-tools.md)
 
