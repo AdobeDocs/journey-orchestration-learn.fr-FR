@@ -19,12 +19,12 @@ ht-degree: 34%
 
 # Configuration d’événements de diffusion en continu
 
-[!UICONTROL Le Journey Orchestration] écoute les événements et orchestre les meilleures actions suivantes du parcours du client en fonction de ces événements. Un événement peut porter sur :
+[!UICONTROL Parcours ] Orchestration écoute les événements et orchestre les meilleures actions suivantes dans le parcours du client en fonction de ces événements. Un événement peut porter sur :
 
 * les actions directes d&#39;une personne (p. ex., elle a acheté un produit, visité un magasin ou abandonné un panier d&#39;achats en ligne), ou
 * Quelque chose qui s&#39;est passé et qui est lié à l&#39;individu (par exemple, quand ils ont atteint 10 000 points de fidélité)
 
-[!UICONTROL Les événements Journey Orchestration] sont des événements [!UICONTROL d’expérience] XDM qui sont envoyés à Adobe Experience Platform par l’ingestion [!UICONTROL de]flux continu.
+[!UICONTROL Les événements d’] orchestration de parcours sont des  [!UICONTROL événements d’expérience ] XDM qui sont envoyés au Adobe Experience Platform par ingestion en flux continu.
 
 >[!NOTE]
 >
@@ -41,12 +41,12 @@ Pour comprendre les exemples utilisés dans la vidéo, vous devez également vou
 >* [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/fr-FR/places/using/home.html)
 
 
-## Configuration des événements de [!UICONTROL diffusion en continu]
+## Comment configurer les [!UICONTROL événements de diffusion en continu]
 
 La vidéo suivante explique comment :
 
-* Configuration des schémas et des jeux de données XDM pour les événements [!UICONTROL Journey Orchestration]
-* Définition d’un événement dans un [!UICONTROL Journey Orchestration]
+* Configurer des schémas et des jeux de données XDM pour [!UICONTROL Journey Orchestration] événements
+* Définir un événement dans [!UICONTROL Journey Orchestration]
 * Configuration des systèmes source pour diffuser des événements
 
 >[!VIDEO](https://video.tv.adobe.com/v/29338?quality=12)
