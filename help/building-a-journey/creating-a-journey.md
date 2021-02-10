@@ -8,9 +8,9 @@ thumbnail: 29696.jpg
 audience: user
 doc-type: video
 activity: use
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ La vidéo suivante explique comment :
 * utiliser des commandes d’[!UICONTROL orchestration] pour contrôler le flux et le timing d’un parcours ;
 * utiliser des actions pour interagir à différents points du parcours.
 
->[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12&captions=fre_fr)
 
 ## Autres ressources
 
