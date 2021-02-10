@@ -1,11 +1,11 @@
 ---
 source-git-commit: 33b77dc26229120fce22909b7085b235e2ff59cc
-workflow-type: tm+mt
-translation-type: tm+mt
+workflow-type: ht
+translation-type: ht
 source-wordcount: '10'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
-# journey-orchestration-learn.en
+# journey-orchestration-learn.fr-FR
 
-Référentiel marketing technologique pour les vidéos et didacticiels des Journey Orchestration
+Référentiel de marketing technologique pour les vidéos et tutoriels de Journey Orchestration
