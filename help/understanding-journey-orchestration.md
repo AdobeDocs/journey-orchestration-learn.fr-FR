@@ -8,9 +8,9 @@ thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '342'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 [!UICONTROL Journey Orchestration] permet de créer des cas d’utilisation d’orchestration en temps réel à l’aide de données contextuelles stockées dans des événements ou des sources de données.
 
-[!UICONTROL Journey Orchestration] est un service d’application intégré avec Adobe Experience Platform. Il offre un écosystème intelligent et ouvert pour activer toutes les données actives pertinentes grâce à un engagement évolutif et basé sur les événements à travers tous les canaux dont votre entreprise a besoin, depuis le marketing jusqu’aux opérations, en passant par le service. [!UICONTROL Journey Orchestration] peut utiliser n’importe quelle donnée d’Adobe Experience Platform et n’importe quel système de diffusion externe pour créer et diffuser des expériences attrayantes.
+[!UICONTROL Journey Orchestration] est un service applicatif intégré avec Adobe Experience Platform. Il offre un écosystème intelligent et ouvert pour activer toutes les données actives pertinentes grâce à un engagement évolutif et basé sur les événements à travers tous les canaux dont votre entreprise a besoin, depuis le marketing jusqu’aux opérations, en passant par le service. [!UICONTROL Journey Orchestration] peut utiliser n’importe quelle donnée d’Adobe Experience Platform et n’importe quel système de diffusion externe pour créer et diffuser des expériences attrayantes.
 
 La vidéo ci-dessous présente :
 
@@ -31,7 +31,7 @@ La vidéo ci-dessous présente :
 * les types de cas d’utilisation proposés ;
 * les éléments essentiels du fonctionnement de [!UICONTROL Journey Orchestration].
 
->[!VIDEO](https://video.tv.adobe.com/v/29307?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29307?quality=12&captions=fre_fr)
 
 ## Configuration d’un parcours
 
@@ -43,7 +43,7 @@ Les principales étapes de préparation à la création de parcours sont les sui
 
 >[!NOTE]
 >
->Ces étapes de configuration nécessitent des connaissances techniques. Vous devez connaître le [modèle XDM](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html) et savoir [comment composer des schémas d’événement d’expérience XDM](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html).
+>Ces étapes de configuration nécessitent des connaissances techniques. Vous devez connaître le [modèle XDM](https://docs.adobe.com/content/help/fr-FR/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html) et savoir [comment composer des schémas d’événement d’expérience XDM](https://docs.adobe.com/content/help/fr-FR/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html).
 
 ## Création, publication et analyse d’un parcours
 
@@ -54,7 +54,7 @@ Les principales étapes de préparation à la création de parcours sont les sui
 ## Autres ressources
 
 * [Centre d’aide de Journey Orchestration](https://docs.adobe.com/content/help/fr-FR/journeys/using/journey-orchestration-home.html)
-* [Tutoriels Adobe Experience Platform](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [Tutoriels Adobe Experience Platform](https://docs.adobe.com/content/help/fr-FR/platform-learn/tutorials/overview.html)
 * [Accès à l’aide de Journey Orchestration](/help/understanding-journey-orchestration.md)
-* [SDK mobile Adobe Experience Platform - Launch](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
+* [SDK mobile Adobe Experience Platform - Launch](https://docs.adobe.com/content/help/fr-FR/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
 * [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/fr-FR/places/using/home.html)
