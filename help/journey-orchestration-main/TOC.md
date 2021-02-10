@@ -9,11 +9,11 @@ tutorials-title: Tutoriels
 tutorials-url: https://docs.adobe.com/content/help/fr-FR/journey-orchestration-learn/tutorials/overview.html
 getting-started-title: Centre d’aide
 getting-started-url: https://docs.adobe.com/content/help/fr-FR/journeys/using/journey-orchestration-home.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2af08154744d0ae8b9107b2abf3fe2bdcae73ac5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -26,10 +26,10 @@ ht-degree: 92%
 + [Utilisation des événements de qualification de segment](/help/using-segment-qualification-events.md)
 + [Configuration de sources de données](/help/configuring-journey-orchestration/configure-data-sources.md)
 + [Configuration d’actions](/help/configuring-journey-orchestration/configure-actions.md)
-+ Créer un parcours {#building-a-journey}
++ Génération d’un parcours {#building-a-journey}
    + [Création d’un parcours](/help/building-a-journey/creating-a-journey.md)
-   + [Passer à un autre parcours](/help/building-a-journey/jumping-to-another-journey.md)
+   + [Passage à un autre parcours](/help/building-a-journey/jumping-to-another-journey.md)
 + [Validation et publication d’un parcours](/help/validate-and-publish-a-journey.md)
 + [Analyse d’un parcours au moyen d’outils de reporting](/help/analyze-a-journey-via-reporting-tools.md)
-+ [Reporting d’événements d’étape vers Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)
++ [Reporting d’événements d’étape de parcours vers Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)
 + [Accès à l’aide de Journey Orchestration](/help/how-to-find-help-with-journey-orchestration.md)
