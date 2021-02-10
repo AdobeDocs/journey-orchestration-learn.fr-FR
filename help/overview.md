@@ -2,25 +2,25 @@
 title: Tutoriels Journey Orchestration - Vue d’ensemble
 description: Journey Orchestration permet de créer des cas d’utilisation d’orchestration en temps réel à l’aide de données contextuelles stockées dans des événements ou des sources de données.
 products: Journey orchestration
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: c48c2e522fee95651f1a7b68cf17d6242c898242
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '205'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
 
 # Vue d’ensemble
 
-[!UICONTROL Journey Orchestration] est un service d’application intégré avec Adobe Experience Platform. Il permet de créer des cas d’utilisation d’orchestration en temps réel à l’aide de données contextuelles stockées dans des événements ou des sources de données.
+[!UICONTROL Journey Orchestration] est un service applicatif intégré avec Adobe Experience Platform. Il permet de créer des cas d’utilisation d’orchestration en temps réel à l’aide de données contextuelles stockées dans des événements ou des sources de données.
 
 ## Nouveautés
 
-* **[Passer à un autre parcours](/help/building-a-journey/jumping-to-another-journey.md)**
+* **[Passage à un autre parcours](/help/building-a-journey/jumping-to-another-journey.md)**
 
    <br>
-   *Découvrez comment pousser des individus d&#39;un parcours à l&#39;autre.*
+   *Découvrez comment inviter des individus à passer d’un parcours à un autre.*
 
 ## Sélections du personnel
 
@@ -71,5 +71,5 @@ ht-degree: 93%
 ## Autres ressources
 
 * [Centre d’aide de Journey Orchestration](https://docs.adobe.com/content/help/fr-FR/journeys/using/journey-orchestration-home.html)
-* [Tutoriels Adobe Experience Platform](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [Tutoriels Adobe Experience Platform](https://docs.adobe.com/content/help/fr-FR/platform-learn/tutorials/overview.html)
 
