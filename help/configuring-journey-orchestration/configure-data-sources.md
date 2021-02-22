@@ -8,10 +8,10 @@ thumbnail: 29406.jpg
 audience: developer
 doc-type: video
 activity: setup
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
-workflow-type: ht
-source-wordcount: '165'
+workflow-type: tm+mt
+source-wordcount: '167'
 ht-degree: 100%
 
 ---
@@ -30,7 +30,7 @@ Cette configuration n’est pas requise si vos parcours utilisent uniquement les
 
 La vidéo suivante explique comment configurer une source de données Experience Platform et une source de données externe, ainsi que la manière d’identifier et d’utiliser des données dans un parcours.
 
->[!VIDEO](https://video.tv.adobe.com/v/29406?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/29406?quality=12)
 
 ## Ressources supplémentaires
 
