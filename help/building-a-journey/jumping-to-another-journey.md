@@ -9,10 +9,10 @@ audience: user
 doc-type: video
 activity: use
 team: PM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
-workflow-type: ht
-source-wordcount: '79'
+workflow-type: tm+mt
+source-wordcount: '81'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,7 @@ L’activité d’action de Saut vous permet d’effectuer les opérations suiva
 * simplifier la conception de parcours très complexes en les divisant en plusieurs autres ;
 * créer des parcours basés sur des schémas de parcours communs et réutilisables.
 
->[!VIDEO](https://video.tv.adobe.com/v/330560?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/330560?quality=12)
 
 ## Autres ressources
 
