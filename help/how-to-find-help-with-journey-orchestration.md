@@ -8,10 +8,10 @@ thumbnail: 32010.jpg
 audience: developer, business user, admin
 doc-type: video
 activity: understand
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 56b3abb5d3a69a516d45eb889932c6036ce54798
-workflow-type: ht
-source-wordcount: '57'
+workflow-type: tm+mt
+source-wordcount: '59'
 ht-degree: 100%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Cette vidéo explique où vous pouvez rapidement trouver des réponses à vos questions sur [!UICONTROL Journey Orchestration]. Elle montre également comment contacter l’assistance, où consigner les tickets d’assistance et comment nous faire part de vos commentaires.
 
->[!VIDEO](https://video.tv.adobe.com/v/32010?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/32010?quality=12)
