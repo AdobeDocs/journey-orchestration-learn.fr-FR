@@ -8,10 +8,10 @@ thumbnails: 29638.jpg
 audience: developer
 doc-type: video
 activity: setup
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
-workflow-type: ht
-source-wordcount: '140'
+workflow-type: tm+mt
+source-wordcount: '142'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,7 @@ Il est possible de configurer les services de fournisseurs pouvant être appelé
 
 La vidéo suivante explique comment configurer une [!UICONTROL action] pour [!UICONTROL Journey Orchestration] et l’utiliser dans un parcours.
 
->[!VIDEO](https://video.tv.adobe.com/v/29638?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/29638?quality=12)
 
 ## Autres ressources
 
