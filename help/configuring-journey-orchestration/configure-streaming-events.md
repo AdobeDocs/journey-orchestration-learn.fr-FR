@@ -34,8 +34,7 @@ Les événements [!UICONTROL Journey Orchestration] sont des [!UICONTROL événe
 >* [La composition de schémas XDM pour les événements d’expérience](https://docs.adobe.com/content/help/fr-FR/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
 >* [L’ingestion des données en flux continu](https://docs.adobe.com/content/help/fr-FR/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html)
 >
->
-Pour comprendre les exemples utilisés dans la vidéo, vous devez également vous familiariser avec les services Adobe Experience Platform suivants :
+>Pour comprendre les exemples utilisés dans la vidéo, vous devez également vous familiariser avec les services Adobe Experience Platform suivants :
 >
 >* [SDK mobile Adobe Experience Platform - Launch](https://docs.adobe.com/content/help/fr-FR/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
 >* [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/fr-FR/places/using/home.html)
