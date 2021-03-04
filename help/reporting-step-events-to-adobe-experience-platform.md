@@ -1,18 +1,19 @@
 ---
 title: 'Reporting d’événements d’étape de parcours vers Adobe Experience Platform '
-description: La vidéo suivante explique ce que sont les événements d’étape du parcours, les étapes de données automatiquement créées sur Experience Platform et comment les explorer.
-feature: Journey Orchestration
+description: Identifiez les événements d’étape de parcours et les étapes de données et comment les explorer.
+feature: Parcours
 topics: Introduction
 kt: 5488
 thumbnail: 36636.jpg
 audience: user
 doc-type: video
 activity: use
+role: Professionnel, Administrateur
 translation-type: tm+mt
-source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 100%
+source-wordcount: '110'
+ht-degree: 82%
 
 ---
 
