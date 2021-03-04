@@ -1,18 +1,19 @@
 ---
 title: Configuration d’événements de diffusion en continu pour Adobe Journey Orchestration
-description: Cette vidéo explique comment configurer des schémas XDM et des jeux de données pour les événements Journey Orchestration. Elle montre également comment définir un événement dans Journey Orchestration et configurer des systèmes sources pour diffuser des événements.
-feature: Journey Orchestration
+description: '"Découvrez comment configurer des schémas XDM et des jeux de données pour les événements Journey Orchestration, définir un événement en Journey Orchestration et configurer les systèmes source pour diffuser des événements"'
+feature: Sources de données, Événements, Schémas
 topics: Events
 kt: 3731
 thumbnail: 29338.jpg
 audience: developer
 doc-type: video
 activity: setup
+role: Administrateur
 translation-type: tm+mt
-source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 100%
+source-wordcount: '271'
+ht-degree: 89%
 
 ---
 
@@ -34,7 +35,8 @@ Les événements [!UICONTROL Journey Orchestration] sont des [!UICONTROL événe
 >* [La composition de schémas XDM pour les événements d’expérience](https://docs.adobe.com/content/help/fr-FR/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
 >* [L’ingestion des données en flux continu](https://docs.adobe.com/content/help/fr-FR/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html)
 >
->Pour comprendre les exemples utilisés dans la vidéo, vous devez également vous familiariser avec les services Adobe Experience Platform suivants :
+>
+Pour comprendre les exemples utilisés dans la vidéo, vous devez également vous familiariser avec les services Adobe Experience Platform suivants :
 >
 >* [SDK mobile Adobe Experience Platform - Launch](https://docs.adobe.com/content/help/fr-FR/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
 >* [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/fr-FR/places/using/home.html)
