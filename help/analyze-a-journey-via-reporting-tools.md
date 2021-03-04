@@ -1,18 +1,19 @@
 ---
 title: Analyse d’un parcours au moyen d’outils de reporting
-description: Ce tutoriel explique comment accéder aux outils de reporting pour votre parcours. Il montre également comment personnaliser les périodes de votre rapport et comment enregistrer un modèle de rapport en vue d’une utilisation ultérieure.
-feature: Journey Orchestration
+description: '"Découvrez comment accéder aux outils de reporting pour votre parcours. Apprenez également comment personnaliser les périodes de votre rapport et comment enregistrer un modèle de rapport en vue d’une utilisation ultérieure."'
+feature: 'Rapports '
 topics: Introduction
 kt: 2777
 thumbnail: 29321.jpg
 audience: user
 doc-type: video
 activity: use
+role: Professionnel, Administrateur
 translation-type: tm+mt
-source-git-commit: eff94dd57d933976c0fd0a303696a54048e4ddc0
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
