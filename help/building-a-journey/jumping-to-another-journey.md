@@ -1,7 +1,7 @@
 ---
 title: Passage à un autre parcours
 description: 'Découvrez comment inviter des individus à passer d’un parcours à un autre. '
-feature: Journey Orchestration
+feature: Parcours
 topics: activity
 kt: 6695
 thumbnail: 330560.jpg
@@ -9,11 +9,12 @@ audience: user
 doc-type: video
 activity: use
 team: PM
+role: Professionnel, Administrateur
 translation-type: tm+mt
-source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 100%
+source-wordcount: '83'
+ht-degree: 96%
 
 ---
 
