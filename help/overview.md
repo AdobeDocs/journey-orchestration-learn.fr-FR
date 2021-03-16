@@ -4,10 +4,10 @@ description: Journey Orchestration permet de créer des cas d’utilisation d�
 products: Journey orchestration
 role: Professionnel, Administrateur
 translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 98%
+source-wordcount: '211'
+ht-degree: 97%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 98%
 
 ## Nouveautés
 
+* **[Mettre à jour l&#39;action profil](/help/building-a-journey/update-profile-action.md)**
 * **[Passage à un autre parcours](/help/building-a-journey/jumping-to-another-journey.md)**
-
    <br>
    *Découvrez comment inviter des individus à passer d’un parcours à un autre.*
 
