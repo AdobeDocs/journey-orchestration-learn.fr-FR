@@ -1,7 +1,7 @@
 ---
 title: Présentation de Journey Orchestration
-description: '"Découvrez le concept de Journey Orchestration, les types de cas d’utilisation proposés et les éléments essentiels du fonctionnement de ce service."'
-feature: 'Vue d’ensemble '
+description: « Découvrez le concept de Journey Orchestration, les types de cas d’utilisation proposés et les éléments essentiels du fonctionnement de ce service. »
+feature: Présentation
 topics: Introduction
 kt: 2773
 thumbnail: 29307.jpg
@@ -9,11 +9,11 @@ audience: user, developer
 doc-type: video
 activity: understand
 role: Professionnel, Administrateur
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '346'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
