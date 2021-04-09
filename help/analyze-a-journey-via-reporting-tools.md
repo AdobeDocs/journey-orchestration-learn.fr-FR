@@ -1,6 +1,6 @@
 ---
 title: Analyse d’un parcours au moyen d’outils de reporting
-description: '"Découvrez comment accéder aux outils de reporting pour votre parcours. Apprenez également comment personnaliser les périodes de votre rapport et comment enregistrer un modèle de rapport en vue d’une utilisation ultérieure."'
+description: « Découvrez comment accéder aux outils de reporting pour votre parcours. Apprenez également comment personnaliser les périodes de votre rapport et comment enregistrer un modèle de rapport en vue d’une utilisation ultérieure. »
 feature: 'Rapports '
 topics: Introduction
 kt: 2777
@@ -9,14 +9,14 @@ audience: user
 doc-type: video
 activity: use
 role: Professionnel, Administrateur
-translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
-workflow-type: tm+mt
+exl-id: f6f13fba-d815-424f-86e5-918577609882
+translation-type: ht
+source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
-
 
 # Analyse d’un parcours au moyen d’outils de reporting
 
