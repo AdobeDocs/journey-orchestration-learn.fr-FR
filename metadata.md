@@ -7,9 +7,9 @@ type: Tutoriel
 mini-toc-levels: 3
 git-repo: https://git.corp.adobe.com/AdobeDocs/journey-orchestration-learn.fr-FR
 index: false
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d9ab2c502519c6bf136056d92eaf6e7e6432f1f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
 ht-degree: 100%
 
