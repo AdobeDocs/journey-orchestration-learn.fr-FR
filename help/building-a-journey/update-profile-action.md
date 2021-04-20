@@ -4,7 +4,7 @@ description: Découvrez comment mettre à jour un profil Adobe Experience Platfo
 feature: Actions
 kt: 7313
 thumbnail: 332112.jpg
-role: Professionnel
+role: Business Practitioner
 activity: use
 team: PM
 exl-id: 5e45b702-2c99-49ad-ae00-65f7555acd09

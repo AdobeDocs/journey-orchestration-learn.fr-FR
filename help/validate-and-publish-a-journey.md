@@ -1,14 +1,14 @@
 ---
 title: Validation et publication d’un parcours
 description: '"Apprenez à tester votre parcours avant sa publication, en utilisant des profils de test. "'
-feature: Parcours
+feature: Journeys
 topics: Test and publish a journey
 kt: 2778
 thumbnail: 30066.jpg
 audience: user
 doc-type: video
 activity: use
-role: Professionnel, Administrateur
+role: Business Practitioner, Administrator
 translation-type: tm+mt
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt

@@ -8,7 +8,7 @@ thumbnails: 29638.jpg
 audience: developer
 doc-type: video
 activity: setup
-role: Administrateur
+role: Administrator
 translation-type: tm+mt
 source-git-commit: 490804cfcfef533d1028d12afa350d78efb56e36
 workflow-type: tm+mt

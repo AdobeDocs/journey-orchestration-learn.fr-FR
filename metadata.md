@@ -3,7 +3,7 @@ cloud: Experience Cloud
 product: journey orchestration
 solution: Journey Orchestration
 feature-set: Journey Orchestration
-type: Tutoriel
+type: Tutorial
 mini-toc-levels: 3
 git-repo: https://git.corp.adobe.com/AdobeDocs/journey-orchestration-learn.fr-FR
 index: false

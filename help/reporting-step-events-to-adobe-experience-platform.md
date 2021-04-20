@@ -1,14 +1,14 @@
 ---
 title: 'Reporting d’événements d’étape de parcours vers Adobe Experience Platform '
 description: Identifiez les événements d’étape de parcours et les étapes de données et comment les explorer.
-feature: Parcours
+feature: Journeys
 topics: Introduction
 kt: 5488
 thumbnail: 36636.jpg
 audience: user
 doc-type: video
 activity: use
-role: Professionnel, Administrateur
+role: Business Practitioner, Administrator
 translation-type: tm+mt
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
