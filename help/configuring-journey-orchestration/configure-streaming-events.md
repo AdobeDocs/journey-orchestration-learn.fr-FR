@@ -1,22 +1,21 @@
 ---
 title: Configuration d’événements de diffusion en continu pour Adobe Journey Orchestration
-description: '"Découvrez comment configurer des schémas XDM et des jeux de données pour les événements Journey Orchestration, définir un événement en Journey Orchestration et configurer les systèmes source pour diffuser des événements"'
-feature: Data Sources, Events, Schemas
+description: '"Découvrez comment configurer des schémas XDM et des jeux de données pour les événements de Journey Orchestration, définir un événement dans Journey Orchestration et configurer les systèmes source pour diffuser des événements"'
+feature: Sources de données, événements, schémas
 topics: Events
 kt: 3731
 thumbnail: 29338.jpg
 audience: developer
 doc-type: video
 activity: setup
-role: Administrator
-translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+role: Admin
+exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '270'
 ht-degree: 89%
 
 ---
-
 
 # Configuration d’événements de diffusion en continu
 
@@ -52,7 +51,7 @@ La vidéo suivante explique comment :
 
 >[!VIDEO](https://video.tv.adobe.com/v/29338?quality=12)
 
-## Autres ressources
+## Ressources supplémentaires
 
 * [Centre d’aide de Journey Orchestration](https://docs.adobe.com/content/help/fr-FR/journeys/using/journey-orchestration-home.html) :
    * [À propos des événements](https://docs.adobe.com/content/help/fr-FR/journeys/using/events-journeys/about-events.html)
