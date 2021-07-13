@@ -4,14 +4,13 @@ description: Découvrez comment mettre à jour un profil Adobe Experience Platfo
 feature: Actions
 kt: 7313
 thumbnail: 332112.jpg
-role: Business Practitioner
+role: User
 activity: use
 team: PM
 exl-id: 5e45b702-2c99-49ad-ae00-65f7555acd09
-translation-type: ht
-source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
-workflow-type: ht
-source-wordcount: '73'
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+workflow-type: tm+mt
+source-wordcount: '71'
 ht-degree: 100%
 
 ---
