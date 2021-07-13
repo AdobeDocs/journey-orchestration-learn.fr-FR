@@ -1,22 +1,21 @@
 ---
 title: Accès à l’aide de Journey Orchestration
-description: Comprendre comment trouver facilement de l'aide
-feature: Overview
+description: Comprendre comment trouver facilement de l’aide
+feature: Présentation
 topics: Help and Support
 kt: 4019
 thumbnail: 32010.jpg
 audience: developer, business user, admin
 doc-type: video
 activity: understand
-role: Business Practitioner, Administrator
-translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+role: User, Admin
+exl-id: 80fb9247-1e11-4eae-ab1e-b76f004714ed
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 83%
+source-wordcount: '56'
+ht-degree: 87%
 
 ---
-
 
 # Accès à l’aide de [!UICONTROL Journey Orchestration]
 
