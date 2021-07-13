@@ -1,7 +1,7 @@
 ---
 title: Passage à un autre parcours
 description: 'Découvrez comment inviter des individus à passer d’un parcours à un autre. '
-feature: Journeys
+feature: Parcours
 topics: activity
 kt: 6695
 thumbnail: 330560.jpg
@@ -9,12 +9,11 @@ audience: user
 doc-type: video
 activity: use
 team: PM
-role: Business Practitioner, Administrator
+role: User, Admin
 exl-id: 185c5c83-5444-4592-b113-732ee561f55a
-translation-type: ht
-source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
-workflow-type: ht
-source-wordcount: '83'
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+workflow-type: tm+mt
+source-wordcount: '80'
 ht-degree: 100%
 
 ---
@@ -30,6 +29,6 @@ L’activité d’action de Saut vous permet d’effectuer les opérations suiva
 
 >[!VIDEO](https://video.tv.adobe.com/v/330560?quality=12)
 
-## Autres ressources
+## Ressources supplémentaires
 
 * [Passage d’un parcours à un autre (Documentation produit)](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/action-activities/jump.html?lang=fr#building-journeys)
