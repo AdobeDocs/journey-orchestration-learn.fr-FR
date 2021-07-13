@@ -1,18 +1,17 @@
 ---
 title: Présentation de Journey Orchestration
-description: « Découvrez le concept de Journey Orchestration, les types de cas d’utilisation proposés et les éléments essentiels du fonctionnement de ce service. »
-feature: Overview
+description: '"Explorez le concept de Journey Orchestration, les types d’utilisation possibles et les éléments clés de son fonctionnement."'
+feature: Présentation
 topics: Introduction
 kt: 2773
 thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
-role: Business Practitioner, Administrator
-translation-type: ht
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
-workflow-type: ht
-source-wordcount: '346'
+role: User, Admin
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+workflow-type: tm+mt
+source-wordcount: '343'
 ht-degree: 100%
 
 ---
@@ -52,10 +51,10 @@ Les principales étapes de préparation à la création de parcours sont les sui
 1. [Validation et publication d’un parcours](/help/validate-and-publish-a-journey.md)
 1. [Analyse d’un parcours au moyen d’outils de reporting](/help/analyze-a-journey-via-reporting-tools.md)
 
-## Autres ressources
+## Ressources supplémentaires
 
 * [Centre d’aide de Journey Orchestration](https://docs.adobe.com/content/help/fr-FR/journeys/using/journey-orchestration-home.html)
-* [Tutoriels Adobe Experience Platform](https://docs.adobe.com/content/help/fr-FR/platform-learn/tutorials/overview.html)
+* [Tutoriels Adobe Experience Platform](https://docs.adobe.com/content/help/fr-FR/platform-learn/tutorials/overview.html)
 * [Accès à l’aide de Journey Orchestration](/help/understanding-journey-orchestration.md)
 * [SDK mobile Adobe Experience Platform - Launch](https://docs.adobe.com/content/help/fr-FR/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
 * [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/fr-FR/places/using/home.html)
