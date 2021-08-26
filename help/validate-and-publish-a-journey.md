@@ -1,7 +1,7 @@
 ---
 title: Validation et publication d’un parcours
 description: '"Découvrez comment tester votre parcours avant sa publication, à l’aide de profils de test. "'
-feature: Parcours
+feature: Journeys
 topics: Test and publish a journey
 kt: 2778
 thumbnail: 30066.jpg
@@ -10,16 +10,16 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: 63d89150-7c1e-4869-9c8d-0371e0c82ee1
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 89%
+source-wordcount: '108'
+ht-degree: 72%
 
 ---
 
 # Validation et publication d’un parcours
 
-Vous pouvez tester votre parcours avant sa publication à l’aide de profils de test. Vous pouvez ainsi analyser le flux des individus dans le parcours et résoudre les problèmes avant la publication.
+Vous pouvez tester votre parcours avant sa publication à l’aide de profils de test. Le test du parcours vous permet d’analyser le flux des individus dans le parcours et de résoudre les problèmes avant la publication.
 
 La vidéo suivante explique comment :
 
@@ -30,6 +30,6 @@ La vidéo suivante explique comment :
 
 ## Ressources supplémentaires
 
-* [Centre d’aide de Journey Orchestration](https://docs.adobe.com/content/help/fr-FR/journeys/using/journey-orchestration-home.html) :
-   * [Test du parcours](https://docs.adobe.com/content/help/fr-FR/journeys/using/building-journeys/journeytesting.html)
-   * [Publication du parcours](https://docs.adobe.com/content/help/fr-FR/journeys/using/building-journeys/journeypublication.html)
+* [Centre d’aide de Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=fr) :
+   * [Test du parcours](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/testing-the-journey.html?lang=fr)
+   * [Publication du parcours](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/publishing-the-journey.html?lang=fr)
