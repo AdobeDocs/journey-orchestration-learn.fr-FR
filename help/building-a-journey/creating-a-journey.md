@@ -1,7 +1,7 @@
 ---
 title: Création d’un parcours à l’aide d’Adobe Journey Orchestration
-description: '"Apprenez comment créer un nouveau parcours, démarrer avec un événement, utiliser les commandes dʼorchestration pour contrôler le flux et le timing dʼun parcours, et utiliser des actions afin de générer de lʼengagement à certains stades du parcours."'
-feature: Parcours
+description: « Découvrez comment créer un parcours, démarrer avec un événement, utiliser les commandes dʼorchestration pour contrôler le flux et le timing dʼun parcours, et utiliser des actions afin de générer de lʼengagement à certains stades du parcours. »
+feature: Journeys
 topics: Create a journey
 kt: 2789
 thumbnail: 29696.jpg
@@ -11,15 +11,15 @@ activity: use
 role: User, Admin
 exl-id: ec61db2f-7a0f-4161-af03-c3f2fe122e4d
 source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
-workflow-type: tm+mt
-source-wordcount: '108'
+workflow-type: ht
+source-wordcount: '107'
 ht-degree: 100%
 
 ---
 
-# Création d‘un parcours
+# Création d’un parcours
 
-La vidéo suivante explique comment :
+La vidéo ci-dessous explique comment :
 
 * créer un parcours et débuter avec un événement ;
 * utiliser des commandes d’[!UICONTROL orchestration] pour contrôler le flux et le timing d’un parcours ;
