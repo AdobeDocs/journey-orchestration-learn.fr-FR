@@ -1,19 +1,19 @@
 ---
 title: Tutoriels Journey Orchestration - Vue d’ensemble
-description: Journey Orchestration vous permet de créer des cas d’utilisation d’orchestration en temps réel à l’aide de données contextuelles stockées dans des événements ou des sources de données.
+description: Journey Orchestration permet de créer des cas d’utilisation d’orchestration en temps réel à l’aide de données contextuelles stockées dans des événements ou des sources de données.
 products: Journey orchestration
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
 source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '207'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
 # Présentation
 
-[!UICONTROL Journey Orchestration] est un service applicatif intégré avec Adobe Experience Platform. Il vous permet de créer des cas d’utilisation d’orchestration en temps réel à l’aide de données contextuelles stockées dans des événements ou des sources de données.
+[!UICONTROL Journey Orchestration] est un service applicatif intégré avec Adobe Experience Platform. Il permet de créer des cas d’utilisation d’orchestration en temps réel à l’aide de données contextuelles stockées dans des événements ou des sources de données.
 
 ## Nouveautés
 
@@ -49,7 +49,7 @@ ht-degree: 63%
     </a>
     </div>
     <p>
-    <em>Découvrez comment créer un parcours, débuter avec un événement, utiliser des orchestres pour contrôler le flux et le timing d’un parcours et utiliser des actions pour interagir à différents points du parcours.</em>
+    <em>Découvrez comment créer un parcours, démarrer avec un événement, utiliser des commandes d’orchestration pour contrôler le flux et le timing d’un parcours, et utiliser des actions afin de générer de lʼengagement à certains stades du parcours.</em>
     <p>
   </td>
   <td>
@@ -71,4 +71,4 @@ ht-degree: 63%
 ## Ressources supplémentaires
 
 * [Centre d’aide de Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=fr)
-* [Tutoriels Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)
+* [Tutoriels Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=fr)
