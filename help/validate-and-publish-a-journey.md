@@ -21,7 +21,7 @@ ht-degree: 72%
 
 Vous pouvez tester votre parcours avant sa publication à l’aide de profils de test. Le test du parcours vous permet d’analyser le flux des individus dans le parcours et de résoudre les problèmes avant la publication.
 
-La vidéo suivante explique comment :
+La vidéo ci-dessous explique comment :
 
 * Activer et utiliser le **[!UICONTROL mode test]** pour valider un parcours
 * Publier un parcours et gérer son état

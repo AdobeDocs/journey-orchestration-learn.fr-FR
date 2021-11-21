@@ -11,7 +11,7 @@ activity: use
 role: User, Admin
 exl-id: f6f13fba-d815-424f-86e5-918577609882
 source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 100%
 
@@ -30,4 +30,4 @@ La vidéo ci-dessous explique comment :
 ## Ressources supplémentaires
 
 * [Centre d’aide de Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=fr) :
-* [À propos des rapports Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/journey-reports/about-journey-reports.html?lang=fr)
+* [À propos des rapports Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/journey-reports/about-journey-reports.html?lang=fr)

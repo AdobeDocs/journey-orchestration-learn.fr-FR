@@ -1,6 +1,6 @@
 ---
 title: Action Mettre à jour le profil
-description: Découvrez comment mettre à jour un profil Adobe Experience Platform existant avec des informations provenant d’un événement, d’une source de données ou d’une valeur spécifique.
+description: Découvrez comment mettre à jour un profil Adobe Experience Platform existant avec des informations provenant d’un événement, d’une source de données ou d’une valeur spécifique.
 feature: Actions
 kt: 7313
 thumbnail: 332112.jpg
@@ -9,7 +9,7 @@ activity: use
 team: PM
 exl-id: 5e45b702-2c99-49ad-ae00-65f7555acd09
 source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 100%
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 # Action Mettre à jour le profil
 
-Découvrez comment mettre à jour un profil Adobe Experience Platform existant avec des informations provenant d’un événement, d’une source de données ou d’une valeur spécifique.
+Découvrez comment mettre à jour un profil Adobe Experience Platform existant avec des informations provenant d’un événement, d’une source de données ou d’une valeur spécifique.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332112?quality=12)
 
