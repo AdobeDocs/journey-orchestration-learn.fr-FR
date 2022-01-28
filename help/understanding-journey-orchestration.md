@@ -9,7 +9,7 @@ audience: user, developer
 doc-type: video
 activity: understand
 role: User, Admin
-source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
+source-git-commit: f46e7dd5cbd60a16b5ab8a58a5a548735a3708fc
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 100%
@@ -58,3 +58,4 @@ Les principales étapes de préparation à la création de parcours sont les sui
 * [Accès à l’aide de Journey Orchestration](/help/understanding-journey-orchestration.md)
 * [SDK mobile Adobe Experience Platform - Launch](https://experienceleague.adobe.com/docs/mobile-sdk-learn/tutorials/fundamentals/understanding-the-mobile-sdks.html?lang=fr)
 * [Adobe Experience Platform Location Service](https://experienceleague.adobe.com/docs/places/using/home.html?lang=fr)
+
