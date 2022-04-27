@@ -24,7 +24,7 @@ ht-degree: 100%
 + [Présentation de Journey Orchestration](/help/understanding-journey-orchestration.md)
 + [Configuration d’événements de diffusion en continu](/help/configuring-journey-orchestration/configure-streaming-events.md)
 + [Utilisation des événements de qualification de segment](/help/using-segment-qualification-events.md)
-+ [Configuration des sources de données](/help/configuring-journey-orchestration/configure-data-sources.md)
++ [Configurer les sources de données](/help/configuring-journey-orchestration/configure-data-sources.md)
 + [Configuration d’actions](/help/configuring-journey-orchestration/configure-actions.md)
 + Génération d’un parcours {#building-a-journey}
    + [Création d’un parcours](/help/building-a-journey/creating-a-journey.md)
