@@ -10,10 +10,10 @@ doc-type: video
 activity: setup
 role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
-source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
+source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
 workflow-type: tm+mt
-source-wordcount: '266'
-ht-degree: 90%
+source-wordcount: '261'
+ht-degree: 59%
 
 ---
 
@@ -21,23 +21,23 @@ ht-degree: 90%
 
 [!UICONTROL Journey Orchestration] écoute les événements et orchestre les meilleures actions suivantes dans le parcours du client en fonction de ces événements. Un événement peut porter sur :
 
-* les actions directes d’un individu (p. ex., l’achat d’un produit, la visite d’un magasin ou l’abandon d’un panier en ligne), ou
-* un événement lié à l’individu (par exemple, avoir atteint 10 000 points de fidélité).
+* les actions directes d’un individu (par exemple, il a acheté un produit, visité un magasin ou abandonné un panier en ligne), ou
+* Quelque chose qui s’est produit est lié à l’individu (par exemple, il a atteint 10 000 points de fidélité)
 
 Les événements [!UICONTROL Journey Orchestration] sont des [!UICONTROL événements d’expérience XDM ] envoyés à Adobe Experience Platform par l’intermédiaire de l’[!UICONTROL ingestion en flux continu].
 
 >[!NOTE]
 >
->Vous devez connaître :
+>Vous devez connaître :
 >
->* [Le modèle de données d’expérience (XDM)](https://docs.adobe.com/content/help/fr-FR/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
->* [La composition de schémas XDM pour les événements d’expérience](https://docs.adobe.com/content/help/fr-FR/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
->* [L’ingestion des données en flux continu](https://docs.adobe.com/content/help/fr-FR/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html)
+>* [Le modèle de données d’expérience (XDM)](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=fr)
+>* [La composition de schémas XDM pour les événements d’expérience](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=fr)
+>* [L’ingestion des données en flux continu](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html?lang=en)
 >
 >Pour comprendre les exemples utilisés dans la vidéo, vous devez également vous familiariser avec les services Adobe Experience Platform suivants :
 >
->* [SDK mobile Adobe Experience Platform - Launch](https://docs.adobe.com/content/help/fr-FR/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
->* [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/fr-FR/places/using/home.html)
+>* [ SDK Mobile Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=en)
+>* [Adobe Experience Platform Location Service](https://experienceleague.adobe.com/docs/places/using/home.html?lang=fr)
 
 
 ## Comment configurer les [!UICONTROL événements de diffusion en continu]
@@ -50,7 +50,4 @@ La vidéo suivante explique comment :
 
 >[!VIDEO](https://video.tv.adobe.com/v/29338?quality=12)
 
-## Ressources supplémentaires
-
-* [Centre d’aide de Journey Orchestration](https://docs.adobe.com/content/help/fr-FR/journeys/using/journey-orchestration-home.html) :
-   * [À propos des événements](https://docs.adobe.com/content/help/fr-FR/journeys/using/events-journeys/about-events.html)
+Pour plus d’informations, voir [À propos des événements](https://experienceleague.adobe.com/docs/journeys/using/events-journeys/about-events/about-events.html?lang=en) de la documentation du produit.

@@ -1,6 +1,6 @@
 ---
 title: Accès à l’aide de Journey Orchestration
-description: Comprendre comment trouver facilement de l’aide
+description: Découvrez où trouver rapidement des réponses à vos questions [!UICONTROL Journey Orchestration], comment contacter l’assistance, où consigner les tickets d’assistance et comment nous faire part de vos commentaires.
 feature: Overview
 topics: Help and Support
 kt: 4019
@@ -10,15 +10,15 @@ doc-type: video
 activity: understand
 role: User, Admin
 exl-id: 80fb9247-1e11-4eae-ab1e-b76f004714ed
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 87%
+source-wordcount: '74'
+ht-degree: 18%
 
 ---
 
 # Accès à l’aide de [!UICONTROL Journey Orchestration]
 
-Cette vidéo explique où vous pouvez rapidement trouver des réponses à vos questions sur [!UICONTROL Journey Orchestration]. Elle montre également comment contacter l’assistance, où consigner les tickets d’assistance et comment nous faire part de vos commentaires.
+Découvrez où trouver rapidement des réponses à vos questions [!UICONTROL Journey Orchestration], comment contacter l’assistance, où consigner les tickets d’assistance et comment nous faire part de vos commentaires.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32010?quality=12)

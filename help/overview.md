@@ -1,17 +1,17 @@
 ---
-title: Tutoriels Journey Orchestration - Vue d’ensemble
+title: Tutoriels Journey Orchestration
 description: Journey Orchestration permet de créer des cas d’utilisation d’orchestration en temps réel à l’aide de données contextuelles stockées dans des événements ou des sources de données.
 products: Journey orchestration
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
+source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '208'
 ht-degree: 100%
 
 ---
 
-# Présentation
+# Tutoriels Journey Orchestration
 
 [!UICONTROL Journey Orchestration] est un service applicatif intégré avec Adobe Experience Platform. Il permet de créer des cas d’utilisation d’orchestration en temps réel à l’aide de données contextuelles stockées dans des événements ou des sources de données.
 

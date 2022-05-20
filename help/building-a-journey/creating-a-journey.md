@@ -10,24 +10,16 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: ec61db2f-7a0f-4161-af03-c3f2fe122e4d
-source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
+source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 100%
+source-wordcount: '79'
+ht-degree: 59%
 
 ---
 
-# Création d’un parcours
 
-La vidéo ci-dessous explique comment :
+# Création d’un parcours à l’aide d’Adobe Journey Orchestration
 
-* créer un parcours et débuter avec un événement ;
-* utiliser des commandes d’[!UICONTROL orchestration] pour contrôler le flux et le timing d’un parcours ;
-* utiliser des actions pour interagir à différents points du parcours.
+Découvrez comment créer un parcours, débuter avec un événement, utiliser des commandes d’orchestration pour contrôler le flux et le timing d’un parcours et utiliser des actions pour interagir à différents points du parcours.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12)
-
-## Ressources supplémentaires
-
-* [Centre d’aide de Journey Orchestration](https://docs.adobe.com/content/help/fr-FR/journeys/using/journey-orchestration-home.html) :
-   * [Création d’un parcours](https://docs.adobe.com/content/help/fr-FR/journeys/using/building-journeys/about-journey-building/journey.html)
