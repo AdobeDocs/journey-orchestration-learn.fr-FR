@@ -1,6 +1,6 @@
 ---
 title: Présentation de Journey Orchestration
-description: « Explorez le concept de Journey Orchestration, les types d’utilisation possibles et les éléments clés de son fonctionnement. »
+description: Explorez le concept de Journey Orchestration, les types d’utilisation possibles et les éléments clés de son fonctionnement.
 feature: Overview
 topics: Introduction
 kt: 2773
@@ -9,19 +9,19 @@ audience: user, developer
 doc-type: video
 activity: understand
 role: User, Admin
-source-git-commit: f46e7dd5cbd60a16b5ab8a58a5a548735a3708fc
+exl-id: db4f69bb-183c-4376-9791-eb6b1f78ab32
+source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 100%
 
 ---
 
-
 # Présentation de [!UICONTROL Journey Orchestration]
 
-## Vue d’ensemble de [!UICONTROL Journey Orchestration]
-
 [!UICONTROL Journey Orchestration] permet de créer des cas d’utilisation d’orchestration en temps réel à l’aide de données contextuelles stockées dans des événements ou des sources de données.
+
+## Vue d’ensemble de [!UICONTROL Journey Orchestration]
 
 [!UICONTROL Journey Orchestration] est un service applicatif intégré avec Adobe Experience Platform. Il offre un écosystème intelligent et ouvert pour activer toutes les données actives pertinentes grâce à un engagement évolutif et basé sur les événements à travers tous les canaux dont votre entreprise a besoin, depuis le marketing jusqu’aux opérations, en passant par le service. [!UICONTROL Journey Orchestration] peut utiliser toutes les données d’Adobe Experience Platform et n’importe quel système de diffusion externe pour créer et diffuser des expériences attrayantes.
 
@@ -58,4 +58,3 @@ Les principales étapes de préparation à la création de parcours sont les sui
 * [Accès à l’aide de Journey Orchestration](/help/understanding-journey-orchestration.md)
 * [SDK mobile Adobe Experience Platform - Launch](https://experienceleague.adobe.com/docs/mobile-sdk-learn/tutorials/fundamentals/understanding-the-mobile-sdks.html?lang=fr)
 * [Adobe Experience Platform Location Service](https://experienceleague.adobe.com/docs/places/using/home.html?lang=fr)
-
