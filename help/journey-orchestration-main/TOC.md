@@ -11,7 +11,7 @@ getting-started-title: Help Center
 getting-started-url: https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html
 level: Beginner
 source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
 ht-degree: 100%
 
@@ -23,14 +23,14 @@ ht-degree: 100%
 + [Présentation](/help/overview.md)
 + [Présentation de Journey Orchestration](/help/understanding-journey-orchestration.md)
 + [Configuration d’événements de diffusion en continu](/help/configuring-journey-orchestration/configure-streaming-events.md)
-+ [Utilisation des événements de qualification de segment](/help/using-segment-qualification-events.md)
++ [Utiliser des événements de qualification de segment](/help/using-segment-qualification-events.md)
 + [Configurer les sources de données](/help/configuring-journey-orchestration/configure-data-sources.md)
-+ [Configuration d’actions](/help/configuring-journey-orchestration/configure-actions.md)
-+ Génération d’un parcours {#building-a-journey}
-   + [Création d’un parcours](/help/building-a-journey/creating-a-journey.md)
-   + [Passage à un autre parcours](/help/building-a-journey/jumping-to-another-journey.md)
++ [Configurer les actions](/help/configuring-journey-orchestration/configure-actions.md)
++ Générer un parcours {#building-a-journey}
+   + [Créer un parcours](/help/building-a-journey/creating-a-journey.md)
+   + [Passer à un autre parcours](/help/building-a-journey/jumping-to-another-journey.md)
    + [Action Mettre à jour le profil](/help/building-a-journey/update-profile-action.md)
-+ [Validation et publication d’un parcours](/help/validate-and-publish-a-journey.md)
-+ [Analyse d’un parcours au moyen d’outils de reporting](/help/analyze-a-journey-via-reporting-tools.md)
++ [Valider et publier un parcours](/help/validate-and-publish-a-journey.md)
++ [Analyser un parcours au moyen d’outils de reporting](/help/analyze-a-journey-via-reporting-tools.md)
 + [Reporting des événements d’étapes du parcours dans Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)
 + [Accès à l’aide de Journey Orchestration](/help/how-to-find-help-with-journey-orchestration.md)
