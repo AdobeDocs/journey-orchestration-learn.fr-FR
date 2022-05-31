@@ -5,7 +5,7 @@ products: Journey orchestration
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
 source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '208'
 ht-degree: 100%
 
@@ -13,12 +13,12 @@ ht-degree: 100%
 
 # Tutoriels Journey Orchestration
 
-[!UICONTROL Journey Orchestration] est un service applicatif intégré avec Adobe Experience Platform. Il permet de créer des cas d’utilisation d’orchestration en temps réel à l’aide de données contextuelles stockées dans des événements ou des sources de données.
+[!UICONTROL Journey Orchestration] est un service applicatif intégré à Adobe Experience Platform. Il permet de créer des cas d’utilisation d’orchestration en temps réel à l’aide de données contextuelles stockées dans des événements ou des sources de données.
 
 ## Nouveautés
 
 * **[Action Mettre à jour le profil](/help/building-a-journey/update-profile-action.md)**
-* **[Passage à un autre parcours](/help/building-a-journey/jumping-to-another-journey.md)**
+* **[Passer à un autre parcours](/help/building-a-journey/jumping-to-another-journey.md)**
    <br>
    *Découvrez comment inviter des individus à passer d’un parcours à un autre.*
 
@@ -41,11 +41,11 @@ ht-degree: 100%
   </td>
   <td>
     <a href="./building-a-journey/creating-a-journey.md">
-        <img alt="Création d’un parcours (vidéo)" src="./assets/journey34.png"/>
+        <img alt="Créer un parcours (vidéo)" src="./assets/journey34.png"/>
     </a>
     <div>
       <a href="./building-a-journey/creating-a-journey.md">
-    <strong>Création d’un parcours (vidéo)</strong>
+    <strong>Créer un parcours (vidéo)</strong>
     </a>
     </div>
     <p>
@@ -54,11 +54,11 @@ ht-degree: 100%
   </td>
   <td>
    <a href="./analyze-a-journey-via-reporting-tools.md">
-      <img alt="Analyse d’un parcours au moyen d’outils de reporting" src="./assets/dynamic_report_journey_8.png" />
+      <img alt="Analyser un parcours au moyen d’outils de reporting" src="./assets/dynamic_report_journey_8.png" />
     </a>
     <div>
       <a href="./analyze-a-journey-via-reporting-tools.md">
-    <strong>Analyse d’un parcours au moyen d’outils de reporting</strong>
+    <strong>Analyser un parcours au moyen d’outils de reporting</strong>
     </a>
     </div>
     <p>
