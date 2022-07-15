@@ -1,6 +1,6 @@
 ---
 title: Configuration d’événements de diffusion en continu pour Adobe Journey Orchestration
-description: Découvrez comment configurer des schémas XDM et des jeux de données pour les événements de Journey Orchestration, définir un événement dans Journey Orchestration et configurer les systèmes sources pour diffuser des événements.
+description: Découvrez comment configurer des schémas XDM et des jeux de données pour les événements Journey Orchestration, comment définir un événement dans Journey Orchestration et comment configurer les systèmes sources pour diffuser des événements.
 feature: Data Sources, Events, Schemas
 topics: Events
 kt: 3731
@@ -12,8 +12,8 @@ role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
 source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 59%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -36,7 +36,7 @@ Les événements [!UICONTROL Journey Orchestration] sont des [!UICONTROL évén
 >
 >Pour comprendre les exemples utilisés dans la vidéo, vous devez également vous familiariser avec les services Adobe Experience Platform suivants :
 >
->* [ SDK Mobile Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=en)
+>* [ SDK Mobile Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=fr)
 >* [Adobe Experience Platform Location Service](https://experienceleague.adobe.com/docs/places/using/home.html?lang=fr)
 
 

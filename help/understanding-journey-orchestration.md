@@ -11,9 +11,9 @@ activity: understand
 role: User, Admin
 exl-id: db4f69bb-183c-4376-9791-eb6b1f78ab32
 source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
-workflow-type: ht
-source-wordcount: '339'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 ## Vue d’ensemble de [!UICONTROL Journey Orchestration]
 
-[!UICONTROL Journey Orchestration] est un service applicatif intégré avec Adobe Experience Platform. Il offre un écosystème intelligent et ouvert pour activer toutes les données actives pertinentes grâce à un engagement évolutif et basé sur les événements à travers tous les canaux dont votre entreprise a besoin, depuis le marketing jusqu’aux opérations, en passant par le service. [!UICONTROL Journey Orchestration] peut utiliser toutes les données d’Adobe Experience Platform et n’importe quel système de diffusion externe pour créer et diffuser des expériences attrayantes.
+[!UICONTROL Journey Orchestration] est un service applicatif intégré à Adobe Experience Platform. Il offre un écosystème intelligent et ouvert pour activer toutes les données actives pertinentes grâce à un engagement évolutif et basé sur les événements à travers tous les canaux dont votre entreprise a besoin, depuis le marketing jusqu’aux opérations, en passant par le service. [!UICONTROL Journey Orchestration] peut utiliser toutes les données d’Adobe Experience Platform et n’importe quel système de diffusion externe pour créer et diffuser des expériences attrayantes.
 
 La vidéo ci-dessous présente :
 
