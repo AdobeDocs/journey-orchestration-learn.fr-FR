@@ -4,23 +4,35 @@ description: Journey Orchestration permet de créer des cas d’utilisation d�
 products: Journey orchestration
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: 88ee4113f06f310b68ead54a156372d78cb934aa
+source-git-commit: 73eee54dae0f6a765e0dcd6bcab35cf67f891294
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 100%
+source-wordcount: '209'
+ht-degree: 98%
 
 ---
 
-# Tutoriels Journey Orchestration - Vue d’ensemble
+# Tutoriels sur Journey Orchestration
 
 [!UICONTROL Journey Orchestration] est un service applicatif intégré à Adobe Experience Platform. Il permet de créer des cas d’utilisation d’orchestration en temps réel à l’aide de données contextuelles stockées dans des événements ou des sources de données.
+
+<div id="whats-new-section">
 
 ## Nouveautés
 
 * **[Action Mettre à jour le profil](/help/building-a-journey/update-profile-action.md)**
 * **[Passer à un autre parcours](/help/building-a-journey/jumping-to-another-journey.md)**
-   <br>
    *Découvrez comment inviter des individus à passer d’un parcours à un autre.*
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## Sélections du personnel
 
@@ -67,6 +79,8 @@ ht-degree: 100%
   </td>
 </tr>
 </table>
+
+</div>
 
 ## Ressources supplémentaires
 
