@@ -1,5 +1,5 @@
 ---
-title: Utilisation des événements de qualification de segment
+title: Utiliser des événements de qualification de segment
 description: Découvrez où configurer des segments et comment configurer un événement de qualification de segment dans un parcours.
 feature: Segments, Events
 topics: Events
@@ -10,14 +10,14 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: fc950a20-1543-4eb7-9ca0-2148216a2afc
-source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
+source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 48%
 
 ---
 
-# Utilisation des événements de qualification de segment
+# Utiliser des événements de qualification de segment
 
 Un événement de qualification de segment permet à votre parcours d’écouter les entrées et les sorties des profils dans les segments Adobe Experience Platform. Ce type d’événement est utilisé pour faire entrer ou avancer des individus dans un parcours.
 
@@ -28,6 +28,6 @@ Voici des exemples de cas d’utilisation :
 
 Cette vidéo présente brièvement où configurer les segments et comment configurer un événement de qualification de segment dans un parcours.
 
->[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12&learn=on)
 
 Pour plus d’informations, voir [Événements de qualification de segment](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/events-activities/segment-qualification-events.html?lang=en).

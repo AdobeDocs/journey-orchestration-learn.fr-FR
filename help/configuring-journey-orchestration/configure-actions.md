@@ -10,7 +10,7 @@ doc-type: video
 activity: setup
 role: Admin
 exl-id: dd116572-a9f1-4608-b04d-e02c17df9587
-source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
+source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 14%
@@ -21,6 +21,6 @@ ht-degree: 14%
 
 Découvrez comment configurer une action pour Journey Orchestration et comment l’utiliser dans un parcours.
 
->[!VIDEO](https://video.tv.adobe.com/v/29638?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29638?quality=12&learn=on)
 
 Pour plus d’informations, voir [Actions](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action.html?lang=en) section de la documentation du produit
