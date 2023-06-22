@@ -2,13 +2,13 @@
 title: Action Mettre à jour le profil
 description: Découvrez comment mettre à jour un profil Adobe Experience Platform existant avec des informations provenant d’un événement, d’une source de données ou d’une valeur spécifique.
 feature: Actions
-kt: 7313
+jira: KT-7313
 thumbnail: 332112.jpg
 role: User
 activity: use
 team: PM
 exl-id: 5e45b702-2c99-49ad-ae00-65f7555acd09
-source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
+source-git-commit: 2735cd3a855e6e8a21381fb77683ed65dab6b1e5
 workflow-type: ht
 source-wordcount: '0'
 ht-degree: 100%
