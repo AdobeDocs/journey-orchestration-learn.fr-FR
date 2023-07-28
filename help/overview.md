@@ -2,9 +2,10 @@
 title: Tutoriels Journey Orchestration - Vue d’ensemble
 description: Journey Orchestration permet de créer des cas d’utilisation d’orchestration en temps réel à l’aide de données contextuelles stockées dans des événements ou des sources de données.
 products: Journey orchestration
+feature: Overview
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: 73eee54dae0f6a765e0dcd6bcab35cf67f891294
+source-git-commit: b32b245c9738b860d8f6417e7e37d079d75b07f9
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 98%
@@ -21,7 +22,7 @@ ht-degree: 98%
 
 * **[Action Mettre à jour le profil](/help/building-a-journey/update-profile-action.md)**
 * **[Passer à un autre parcours](/help/building-a-journey/jumping-to-another-journey.md)**
-   *Découvrez comment inviter des individus à passer d’un parcours à un autre.*
+  *Découvrez comment inviter des individus à passer d’un parcours à un autre.*
 
 </div>
 
