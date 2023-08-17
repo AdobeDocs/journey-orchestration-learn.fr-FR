@@ -23,5 +23,5 @@ Découvrez comment tester votre parcours avant sa publication, à l’aide de pr
 
 >[!VIDEO](https://video.tv.adobe.com/v/30066?quality=12&learn=on)
 
-Pour plus d’informations sur la [Test du parcours](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/testing-the-journey.html?lang=fr)
+Pour plus d’informations sur le produit, voir la documentation du produit [Test du parcours](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/testing-the-journey.html?lang=fr)
 et [Publication du parcours](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/publishing-the-journey.html?lang=fr)
