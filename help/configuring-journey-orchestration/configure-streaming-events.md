@@ -1,7 +1,7 @@
 ---
 title: Configuration d’événements de diffusion en continu pour Adobe Journey Orchestration
 description: Découvrez comment configurer des schémas XDM et des jeux de données pour les événements Journey Orchestration, comment définir un événement dans Journey Orchestration et comment configurer les systèmes sources pour diffuser des événements.
-feature: Data Sources, Events
+feature: Data Sources, Events, Schemas
 topics: Events
 jira: KT-3731
 thumbnail: 29338.jpg
@@ -10,7 +10,7 @@ doc-type: video
 activity: setup
 role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
-source-git-commit: 99bdf8ca7288db3a33831b67fd954686f8f18673
+source-git-commit: 3f9db9f2a83a628b8f48728da48e801dc67c9e84
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 72%
