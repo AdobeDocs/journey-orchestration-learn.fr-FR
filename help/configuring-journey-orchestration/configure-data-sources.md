@@ -10,9 +10,9 @@ doc-type: video
 activity: setup
 role: Admin
 exl-id: 06fbf5ae-aae1-4a62-af84-18303c9674c9
-source-git-commit: 2735cd3a855e6e8a21381fb77683ed65dab6b1e5
+source-git-commit: 9db2765ee5e9520280711a6b1fe3c618963f6f87
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '76'
 ht-degree: 13%
 
 ---
@@ -21,6 +21,6 @@ ht-degree: 13%
 
 Découvrez comment configurer des sources de données Experience Platform, configurer une source de données externe et rechercher et utiliser des données dans un parcours.
 
->[!VIDEO](https://video.tv.adobe.com/v/29406?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/29406?learn=on){transcript=true}
 
 Pour plus d’informations, voir [À propos des sources de données](https://experienceleague.adobe.com/docs/journeys/using/data-source-journeys/about-data-sources.html?lang=en) dans la documentation du produit.
