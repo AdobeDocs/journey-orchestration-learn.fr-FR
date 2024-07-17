@@ -12,8 +12,8 @@ role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
 source-git-commit: 9db2765ee5e9520280711a6b1fe3c618963f6f87
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 72%
+source-wordcount: '216'
+ht-degree: 74%
 
 ---
 
@@ -49,4 +49,4 @@ La vidéo suivante explique comment :
 
 >[!VIDEO](https://video.tv.adobe.com/v/29338?learn=on){transcript=true}
 
-Pour plus d’informations, voir [À propos des événements](https://experienceleague.adobe.com/docs/journeys/using/events-journeys/about-events/about-events.html?lang=en) de la documentation du produit.
+Pour plus d’informations, consultez la section [À propos des événements](https://experienceleague.adobe.com/docs/journeys/using/events-journeys/about-events/about-events.html?lang=en) de la documentation du produit.

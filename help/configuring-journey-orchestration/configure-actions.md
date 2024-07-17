@@ -12,8 +12,8 @@ role: Admin
 exl-id: dd116572-a9f1-4608-b04d-e02c17df9587
 source-git-commit: 9db2765ee5e9520280711a6b1fe3c618963f6f87
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 13%
+source-wordcount: '57'
+ht-degree: 19%
 
 ---
 
@@ -23,4 +23,4 @@ Découvrez comment configurer une action pour Journey Orchestration et comment l
 
 >[!VIDEO](https://video.tv.adobe.com/v/29638?learn=on){transcript=true}
 
-Pour plus d’informations, voir [Actions](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action.html?lang=en) section de la documentation du produit
+Pour plus d’informations, voir la section [Actions](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action.html?lang=en) de la documentation du produit.
